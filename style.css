@@ -12963,3 +12963,11 @@ p {
         bottom: 1vw;
     }
 }
+@media (max-width: 550px) { 
+  .top,
+  .bottom,
+  .top-flip,
+  .bottom-flip {
+    padding: 18px 16px;
+  }
+}
